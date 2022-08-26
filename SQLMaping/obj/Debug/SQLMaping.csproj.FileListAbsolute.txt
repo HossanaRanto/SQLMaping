@@ -1,0 +1,5 @@
+C:\Users\Mahefaniaina Ranto H\source\repos\SQLMaping\SQLMaping\bin\Debug\SQLMaping.dll
+C:\Users\Mahefaniaina Ranto H\source\repos\SQLMaping\SQLMaping\bin\Debug\SQLMaping.pdb
+C:\Users\Mahefaniaina Ranto H\source\repos\SQLMaping\SQLMaping\obj\Debug\SQLMaping.csproj.CoreCompileInputs.cache
+C:\Users\Mahefaniaina Ranto H\source\repos\SQLMaping\SQLMaping\obj\Debug\SQLMaping.dll
+C:\Users\Mahefaniaina Ranto H\source\repos\SQLMaping\SQLMaping\obj\Debug\SQLMaping.pdb
